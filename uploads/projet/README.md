@@ -1,8 +1,3 @@
-# Dossier Projet final
-
-Livrables, documentation, captures d'écran et guide d'installation.
-
-# README - Projet
 # MediCRM - CRM Cabinet de Kinésithérapie
 
 **Lien démo** : medi-crm.vercel.app
