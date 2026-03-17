@@ -47,4 +47,12 @@ npm run dev
 ## Jeu de données test
 Utilisez le seed.sql présent dans backend/prisma/seed.sql dans l'éditeur SQL de Supabase
 
+## Utilisateur de connexion 
+### Administrateur
+Utilisateur : admin@medicrm.fr
+Mdp : admin2test
+### Kiné
+Utilisateur : kine@medicrm.fr
+Mdp : kine2test
+
 Auteur : Liam PROROVNER – Formation Communication Digitale
