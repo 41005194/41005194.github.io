@@ -95,6 +95,12 @@
   ],
   "certifications": [],
   "projet": [],
-  "diaporama": [],
+  "diaporama": [
+    {
+      "name": "MediCRM_pres.pdf",
+      "url": "uploads/diaporama/MediCRM_pres.pdf",
+      "date": "2026-03-24"
+    }
+  ],
   "ressources": []
 }

@@ -1,3 +1,3 @@
 # Dossier Diaporama
 
-Placez votre diaporama PDF (ex. `soutenance_2026.pdf`).
+Ce dossier contient le diaporama de soutenance et ses versions exportées en PDF.

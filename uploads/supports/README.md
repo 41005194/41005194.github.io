@@ -1,3 +1,3 @@
 # Dossier Supports
 
-Notes de cours complétées. Exemple : `module1_notes_v1.pdf`.
+Ce dossier regroupe les notes de cours structurées et les supports pédagogiques utilisés.

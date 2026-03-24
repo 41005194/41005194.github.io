@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async function(){
       
       if(container){
         if(files.length === 0){
-          container.innerHTML = '<p style="color: var(--muted);">Aucun fichier pour cette section.</p>'
+          container.innerHTML = '<p style="color: var(--muted);">Aucun fichier n\'a encore été publié dans cette section.</p>'
         } else {
           let html = '<table style="width:100%;border-collapse:collapse;">'
           html += '<tr style="border-bottom:1px solid rgba(255,255,255,0.1);"><th style="text-align:left;padding:8px;">Fichier</th><th style="text-align:left;padding:8px;">Date</th></tr>'

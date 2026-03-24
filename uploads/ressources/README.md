@@ -1,3 +1,3 @@
 # Dossier Ressources
 
-Articles, liens, tutoriels et autres ressources complémentaires.
+Ce dossier rassemble les articles, tutoriels, liens et ressources de veille sélectionnés.

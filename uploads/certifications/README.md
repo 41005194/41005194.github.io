@@ -1,3 +1,3 @@
 # Dossier Certifications
 
-Déposez vos certificats (PDF ou image). Exemple : `certificat_nomplateforme_2025.pdf`.
+Ce dossier centralise les certifications et attestations obtenues (PDF ou image).
